@@ -64,7 +64,7 @@ export function Home() {
         {/* Hero Section */}
         <div className="max-w-3xl mx-auto text-center space-y-6 mb-16">
           <h1 className="text-4xl font-bold tracking-tight sm:text-6xl bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/50">
-            Welcome to Your App
+            Welcome to Your Application!
           </h1>
           <p className="text-xl text-muted-foreground">
             Enter your text below and see the magic happen
